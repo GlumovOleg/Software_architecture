@@ -34,7 +34,7 @@ public class Ticket {
         this.qrcode = qrcode;
     }
 
-    public boolean isEnable() {
+    public boolean getEnable() {
         return enable;
     }
 

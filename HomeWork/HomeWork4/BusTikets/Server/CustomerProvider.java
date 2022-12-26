@@ -7,8 +7,8 @@ public class CustomerProvider {
 
     private final Database database;
 
-    public CustomerProvider(HomeWork.HomeWork4.BusTikets.Database database2) {
-        this.database = database2;
+    public CustomerProvider(Database database) {
+        this.database = database;
     }
 
     public Customer getCustomer(String login, String password) {

@@ -30,8 +30,8 @@ public class App {
         MobileApp mobileApp = new MobileApp(core.getCustomerProvider(), core.getTicketProvider());
 
         mobileApp.serchTicket(new Date());
-        mobileApp.buyButton("100000000000042");
+        mobileApp.buyTicket("1252312412423511");
 
-        BusStation busStation = new BusStation();
+        BusStation busStation = new BusStation(null);
     }
 }

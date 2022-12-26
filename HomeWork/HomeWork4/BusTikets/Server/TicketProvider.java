@@ -30,9 +30,19 @@ public class TicketProvider {
 
     public boolean buyTikets(int clientId, String cardNo) {
 
+        // Предусловие
+        
+        if (cardNo == null){
+            throw new RuntimeException("Ошибка ввода карты");
+        }
+
         int orderId = database.createTiketOrder(clientId);
         double amount = database.getTiketsAmout();
 
+        // постусловие
+        if (!paymentProvider.buy(orderId, cardNo, amount)){
+            throw new RuntimeException("Покупка билета не удалась");
+        }
         return paymentProvider.buy(orderId, cardNo, amount);
 
     }
