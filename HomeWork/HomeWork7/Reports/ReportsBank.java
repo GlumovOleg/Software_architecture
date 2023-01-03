@@ -1,9 +1,23 @@
+import java.util.ArrayList;
+import java.util.Collection;
+
 public class ReportsBank implements Report {
 
-    @Override
+    private static int counter = 100;
+    private int id;
+
+    private Collection<Report> reports = new ArrayList<>();
+
+    public Collection<Report> getReports() {
+        return reports;
+    }
+
     public int getId() {
-        // TODO Auto-generated method stub
-        return 0;
+        return id;
+    }
+
+    {
+        id = ++counter;
     }
     
 }

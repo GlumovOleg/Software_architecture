@@ -1,9 +1,15 @@
-public class ReportsFin implements Report{
+public class ReportsFin implements Report {
 
-    @Override
+    private static int counter = 0;
+
+    private int id;
+
     public int getId() {
-        // TODO Auto-generated method stub
-        return 0;
+        return id;
     }
-    
+
+    {
+        id = ++counter;
+    }
+
 }
