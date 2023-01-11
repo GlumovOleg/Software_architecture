@@ -57,14 +57,14 @@ namespace ClinicService.Controllers
 
 
         [HttpGet("getAll")]
-        public ActionResult<List<Client>> GetAll()
+        public ActionResult<List<Pet>> GetAll()
         {
             return Ok(_petRepository.GetAll());
         }
 
 
         [HttpGet("getById")]
-        public ActionResult<Client> GetById(int petId)
+        public ActionResult<Pet> GetById(int petId)
         {
             return Ok(_petRepository.GetById(petId));
         }
