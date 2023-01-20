@@ -1,0 +1,14 @@
+C:\Users\Darek\OneDrive\Документы\ГБ\Архитектура ПО\Seminar\Seminar10\ClinicService\ClinicDesktop\bin\Debug\ClinicDesktop.exe.config
+C:\Users\Darek\OneDrive\Документы\ГБ\Архитектура ПО\Seminar\Seminar10\ClinicService\ClinicDesktop\bin\Debug\ClinicDesktop.exe
+C:\Users\Darek\OneDrive\Документы\ГБ\Архитектура ПО\Seminar\Seminar10\ClinicService\ClinicDesktop\bin\Debug\ClinicDesktop.pdb
+C:\Users\Darek\OneDrive\Документы\ГБ\Архитектура ПО\Seminar\Seminar10\ClinicService\ClinicDesktop\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Darek\OneDrive\Документы\ГБ\Архитектура ПО\Seminar\Seminar10\ClinicService\ClinicDesktop\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Darek\OneDrive\Документы\ГБ\Архитектура ПО\Seminar\Seminar10\ClinicService\ClinicDesktop\obj\Debug\ClinicDesktop.csproj.AssemblyReference.cache
+C:\Users\Darek\OneDrive\Документы\ГБ\Архитектура ПО\Seminar\Seminar10\ClinicService\ClinicDesktop\obj\Debug\ClinicDesktop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Darek\OneDrive\Документы\ГБ\Архитектура ПО\Seminar\Seminar10\ClinicService\ClinicDesktop\obj\Debug\ClinicDesktop.MainForm1.resources
+C:\Users\Darek\OneDrive\Документы\ГБ\Архитектура ПО\Seminar\Seminar10\ClinicService\ClinicDesktop\obj\Debug\ClinicDesktop.Properties.Resources.resources
+C:\Users\Darek\OneDrive\Документы\ГБ\Архитектура ПО\Seminar\Seminar10\ClinicService\ClinicDesktop\obj\Debug\ClinicDesktop.csproj.GenerateResource.cache
+C:\Users\Darek\OneDrive\Документы\ГБ\Архитектура ПО\Seminar\Seminar10\ClinicService\ClinicDesktop\obj\Debug\ClinicDesktop.csproj.CoreCompileInputs.cache
+C:\Users\Darek\OneDrive\Документы\ГБ\Архитектура ПО\Seminar\Seminar10\ClinicService\ClinicDesktop\obj\Debug\ClinicDesktop.csproj.CopyComplete
+C:\Users\Darek\OneDrive\Документы\ГБ\Архитектура ПО\Seminar\Seminar10\ClinicService\ClinicDesktop\obj\Debug\ClinicDesktop.exe
+C:\Users\Darek\OneDrive\Документы\ГБ\Архитектура ПО\Seminar\Seminar10\ClinicService\ClinicDesktop\obj\Debug\ClinicDesktop.pdb
